@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Ayush Goyal",
   "license": "Licensed under (Apache 2.0)",
-  "summary": "A module for a thing",
+  "summary": "A module for managing cagefs virtual filesystem in CloudLinux",
   "source": "https://github.com/perfectayush/puppet-cagefs",
   "project_page": "(https://forge.puppetlabs.com/perfectayush/cagefs)",
   "issues_url": "",
