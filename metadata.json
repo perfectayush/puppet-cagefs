@@ -1,0 +1,19 @@
+{
+  "name": "perfectayush-cagefs",
+  "version": "0.0.1",
+  "author": "Ayush Goyal",
+  "license": "Licensed under (Apache 2.0)",
+  "summary": "A module for a thing",
+  "source": "https://github.com/perfectayush/puppet-cagefs",
+  "project_page": "(https://forge.puppetlabs.com/perfectayush/cagefs)",
+  "issues_url": "",
+  "tags": ["cagefs", "cloudlinux"],
+  "operatingsystem_support": [
+    {
+    "operatingsystem":"CentOS",
+    "operatingsystemrelease":[ "5.0", "6.0"]
+    },
+  ]
+  "dependencies": [
+    { "name": "puppetlabs/stdlib", "version_requirement": ">=3.2.0 <5.0.0" },]
+}
